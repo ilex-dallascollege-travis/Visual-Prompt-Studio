@@ -5,8 +5,8 @@ An astronaut has accidentally crossed into the outer edge of a black hole's even
 An astronaut has accidentally crossed into the outer edge of a black hole's event horizon. His spacecraft is being stretched and distorted behind him while an enormous glowing ring of matter surrounds the black hole. The astronaut is slowly being pulled toward the darkness.  the black hole enormous dominant circular shape, with the light bending curved around the event horizon, looking almost like horizontal lines around the event horizon blending of light and the matter wrapped i want this to be a chaotic setting with the calm and negative space of the universe placing distance from the edge of the poster until the area of binding light and inner black hole, astronaut parts of him you see start to stretch into the black hole, black and white color contrasts and causes a negative empty space and positive space of the astronauts white suit with the black abyss emphasizing the isolation of the situation, spacecraft distorted geometric lines of spacecraft also being wrapped into the black hole but a bit further from the astronaut on the other side of the black hole as both got started, the spacecraft has a smooth metallic texture of aluminum and titanium, the black hole needs to take up exponentially more volume and mass compared to the astronaut but the mass is not to automatically assume its heavy although it is the gravity extremities is an example of the weight of mass being placed down and wrapping around space-time curve
 
 Vocabulary Breakdown-
-Lines- Lines are what create 
-Shape-
-Texture-
-Volume-
-Contrast-
+Lines- Lines are marks or paths that can define the edges of objects and guide the viewer’s eyes through an artwork. Different directions and styles of lines can also make something feel calm, energetic, or like it is moving.
+Shape-Shape is the two-dimensional outline or area of an object. Shapes can be geometric, like circles and squares, or organic, meaning they have more natural and irregular forms.
+Texture-Texture describes how the surface of something looks or feels. In an artwork, texture can make a surface appear smooth, rough, metallic, cracked, soft, or any other way.
+Volume-Volume is the sense of three-dimensional space that an object takes up. It helps make an object appear like it has depth rather than looking completely flat.
+Contrast-Contrast is the difference between two or more visual elements. This can be differences in light and dark, color, size, shape, or texture, and it can be used to make certain parts of an artwork stand out.
