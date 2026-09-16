@@ -1,4 +1,5 @@
 Vamp Anthem
+
 Heavy Metal / Gothic
 Focus on dark stone architecture, high value contrast with deep shadows,
 jagged lines, and a sense of intense physical volume or mass.
@@ -9,10 +10,15 @@ jagged lines, and a sense of intense physical volume or mass.
 
 
 Glossary
+
 Value- This is the way artists can add mood into a piece, by emphasizing certain parts by either add light or dark.
+
 Space- Space within, apart or between parts of the piece
+
 Unity-
+
 Balance-
+
 Rhythm- Is the way a art piece can make your eyes wonder around the art,
 but more importantly the directioning, how your eyes follow through the artwork.
 
