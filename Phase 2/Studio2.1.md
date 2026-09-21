@@ -12,3 +12,45 @@ I want to create an oil painting on canvas of a sea turtle seen in profile at mi
 Prompt B
 
 I want to create a monotype print of a sea turtle seen in profile at mid-depth gliding left, away from the viewer through a coral reef. In the tradition of the dark-field monotype technique developed by Edgar Degas in the 1870s–1890s, the plate is fully inked with a brayer and then worked from dark masses toward light by wiping ink away rather than drawing lines, under a single light source from above. The water is built by wiping the ink away in soft strokes where the artwork is closer to sea level, leaving the ink heavy and dark where the artwork grows into the depths, toward the bottomless abyss of the sea. Render the turtle by wiping diagonally from top right to bottom left as the light from the highlight hits it top right of the shell. The rag is then pulled across the shadow of the turtle using chiaroscuro so it looks as if the shadow is a different color. Leaving the ink heavy and untouched along the lower right edge where it curves into shadow. The coral is not built up but scraped, dragged, scratched through the wet ink, or incised with a stick or brush handle while the ink is still wet into the inked plate, so texture comes from the roughness of the removed ink rather than raised paint. I want to simplify the cast since a single gestural pull cant hold as much incidental detail as built-up oil. The palette colors are going to be a black ink as the dominant tone, with a single blue-green accent for the water, and the warm color reserved only for the pearls. Highlight the theme of sonder. The realization that every other creature's existence is as complex as one's own, by giving equal painterly attention to every fish, anemone, and shell in the reef, so that no single figure, not even the turtle, is permitted to dominate the composition. Distant coral fades into looser, lighter, less-worked passages of ink toward the depths. 
+
+
+
+
+Reflection Questions
+
+
+Why you chose your first medium
+
+I choose my first medium because I wanted there to be depth and meaning into why I chose certain art styles for a reason. Oil to grasp the detail and emotion of every wave, every tiny fish, the beautiful color. Using glazing for the water and impasto for the coral, the piece has real texture, if you touched it you would feel the built-up ridges and humps of the coral against the smooth, layered surface of the water. Oil's slow drying time let me build that up in layers instead of committing to one fast, final gesture. The feeling you would get would be like the word sonder: realization and understanding that all other people have lives as complex as one's own. 
+
+
+
+
+How the image qualities changed when switching to printmaking
+
+The images picked up on their own moods and temperatures as far as lighting, contrast and hue. It went from extremely vivid in detail and lively in color, while the printmaker version was much more limited, almost a traditional type of artwork, simple in color close to black and white. 
+
+
+
+
+What each medium communicates differently
+
+The oil painting feels full of love and emotion, with so many different creatures and lives happening throughout the piece that you can get lost anywhere you stop to look. The monotype is colder, though not necessarily in a bad way, it feels like it could take place in a different climate entirely, almost like an Arctic coral reef system, something unfamiliar rather than tropical. In both images the turtle is the largest and most detailed single shape, but in each piece the coral genuinely competes for attention and sits on the same level as the turtle rather than being background.
+
+
+
+What possibilities or limitations you discovered
+
+I was surprised by how fine and controlled the linework came out in the monotype. It clearly reads as a print, but it does not include the loose, rag-wiped softness that real monotypes have. That was a genuine limitation of generating the image this way, since the process I described, wiping and scraping ink, did not fully translate into the final result. The color also wasn't applied the way I was expecting. I was honestly picturing in my head sort of  a stained glass image, like the ones found in Catholic churches, with color glowing through the piece rather than being nearly absent.
+
+
+
+How tools and processes shaped the visual outcome
+
+The impasto texture in the oil image is beautifully done, it looks thick, almost like something a palette knife would leave behind in ridges. In the monotype piece, I think the fine linework looks like it came from scraping across the artwork into shapes, or possibly an incising tool.
+
+
+
+Whether the printmaking version changed your interpretation of the piece
+
+Yes. Seeing the printmaking version made me realize how much more I enjoy the oil artwork. The monoprint isn't as pleasing to me, I don't like the hard lines in the coral.
