@@ -19,3 +19,12 @@ Chosen Genre Mashup:
 
 
 Glossary:
+Contemporary Art
+
+Pop Art OR Cubism (the one chosen for your style)
+
+Directional Lines
+
+Value Contrast
+
+Focal Point
