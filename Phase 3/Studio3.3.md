@@ -1,4 +1,5 @@
-project title: Greek Dream
+project title:
+Greek Dream
 
 text prompt:
 Create a promotional landing page for an exhibition titled “The Greek Dream,” opening in June, July, and August 2027, all summer. The subject matter is an ancient Greek coastal landscape in which three white-columned buildings climb a cliffside, from a sandy beach at the bottom up to a school at the top. Each level holds one adult citizen who shows Greek ideals of beauty and self-expression. Dolphins, fish, and other Mediterranean sea life appear in the water below.
@@ -16,15 +17,15 @@ The layout uses layers of movement. We have directional lines used in the artwor
 Contour lines give every figure and building a crisp outline, keeping the forms sharp and clear. Contrast comes from complementary colors, a warm orange sunlight against deep blue sea, which makes the figures stand out as focal points. Realistic detail adds more contrast: soft skin with shadows, shine, and sleekness, visible muscle lines and curves, a range of beige and brown skin tones, and small imperfections like freckles, red hair, rosy cheeks, dark elbows, scars, a burn mark, and the tattoo. The page includes the exhibition title at the top and the summer 2027 dates below it., no nudity allowed.
 
 Chosen Genre Mashup:
-
+Greek idealism &  identity and self expression
 
 Glossary:
-Contemporary Art
+Contemporary Art - A newer generation more abstract style of art that grabs attention and is usually heavily on usually flowy, pattern like, rythmic.
 
-Pop Art OR Cubism (the one chosen for your style)
+Cubism - Massive trends towards artworks with just majorly all focus on the canvas is rectangular geometric shapes. Simple designs look like artworks of cubes and squares.
 
-Directional Lines
+Directional Lines - Directional lines are horizontal, vertical, or diagonal lines. And describe movement.
 
-Value Contrast
+Value Contrast - The different in contrast, like black and white, yin and yang. the value of how different whats next to each other is.
 
-Focal Point
+Focal Point - The main point of what you want viewers to focus on. Everything in the piece should make eyes look in this direction.
